@@ -1,5 +1,5 @@
 import time
 
-login = "sergey28290@yandex.ru"
-password = "3046fjbe"
+login = "email"
+password = "password"
 timeout = 10

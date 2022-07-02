@@ -17,5 +17,5 @@ Feature: Testing Bumbleby UI for compliance with the technical specification
     Then Bumbleby UI meets the technical specification
 
     Examples:
-      | login                  | password     |
-      | sergey28290@yandex.ru  | 3046fjbe     |
+      | login  | password     |
+      | email  | password     |
